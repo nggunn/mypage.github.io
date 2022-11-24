@@ -1,3 +1,3 @@
 # website
 
-click https://mypage.github.io
+https://nggunn.github.io/mypage.github.io
